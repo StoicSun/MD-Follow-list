@@ -35,10 +35,11 @@ python main.py
 ```
 
 ### Download executable
-If you don't want to build from source then download the executable from releases but be sure to look into the source code to reassure yourself since you'll have to provide your username and password to the program afterall.
+If you don't want to build from source then [download](https://github.com/StoicSun/MD-Follow-list/releases/download/1.0.0/main.exe) the executable from releases but be sure to look into the source code to reassure yourself since you'll have to provide your username and password to the program afterall.
 
 ### Contributing
 If you think this program can be improved in any way please open a PR or if you find a bug or issue open a new issue  
 Thanks!
 
 ### License
+[MIT](LICENSE.md) © Suraj Das
