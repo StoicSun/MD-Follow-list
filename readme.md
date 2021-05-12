@@ -15,6 +15,14 @@ This was created in order to make searching for your favourite manga in thirdpar
 >Note: Follow list is created as a csv file for your convenience
 
 ### Run from source
+Clone repo:
+```
+git clone https://github.com/StoicSun/MD-Follow-list.git
+```
+
+Cd into directory where you cloned the repo  
+eg.`cd Downloads/MD-Follow-list`
+
 Create a virtualenv first:
 ```
 python -m venv venv
