@@ -21,7 +21,7 @@ git clone https://github.com/StoicSun/MD-Follow-list.git
 ```
 
 Cd into directory where you cloned the repo  
-eg.`cd Downloads/MD-Follow-list`
+eg.`cd Downloads\MD-Follow-list`
 
 Create a virtualenv first:
 ```
