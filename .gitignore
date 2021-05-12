@@ -1,0 +1,6 @@
+_pycache_/
+venv/
+build/
+dist/
+main.spec
+cat_4gx_icon.ico
