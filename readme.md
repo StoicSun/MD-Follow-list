@@ -12,6 +12,7 @@ Simple script to fetch user's follow list from mangadex's api
 
 ### Background 
 This was created in order to make searching for your favourite manga in thirdparty apps like Tachiyomi a bit easier.
+>Note: Follow list is created as a csv file for your convenience
 
 ### Run from source
 Create a virtualenv first:
