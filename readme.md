@@ -51,4 +51,4 @@ If you think this program can be improved in any way please open a PR or if you 
 Thanks!
 
 ### License
-[MIT](LICENSE.md) © Suraj Das
+[MIT](LICENSE) © Suraj Das
