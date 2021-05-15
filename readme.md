@@ -5,6 +5,7 @@ Simple script to fetch user's follow list from mangadex's api
 - [Follows List](#follows-list)
   - [TOC](#toc)
   - [Background](#background)
+  - [Update](#update)
   - [Run from source](#run-from-source)
   - [Download executable](#download-executable)
   - [Contributing](#contributing)
@@ -13,6 +14,9 @@ Simple script to fetch user's follow list from mangadex's api
 ### Background 
 This was created in order to make searching for your favourite manga in thirdparty apps like Tachiyomi a bit easier.
 >Note: Follow list is created as a csv file for your convenience
+
+### Update
+- Added the functionality to get the last read chapter 
 
 ### Run from source
 Clone repo:
