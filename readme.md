@@ -1,5 +1,7 @@
+There are many better projects around like [Terminal client for MangaDex](https://github.com/darylhjd/mangadesk), [python wrapper for the mangadex API](https://github.com/EMACC99/mangadex) which do this and more so you should use them instead but if for some reason you need this it's still going to be around just not in active development
+
 ## Follows List 
-Simple script to fetch user's follow list from mangadex's api
+Simple script to fetch user's follow list from mangadex's api 
 
 ### TOC
 - [Follows List](#follows-list)
